@@ -14,6 +14,7 @@
 		<Item Name="estados.ctl" Type="VI" URL="../estados.ctl"/>
 		<Item Name="geraChecksum.vi" Type="VI" URL="../geraChecksum.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
+		<Item Name="MainWiFi.vi" Type="VI" URL="../MainWiFi.vi"/>
 		<Item Name="mensagemFila.ctl" Type="VI" URL="../mensagemFila.ctl"/>
 		<Item Name="montaCabecalho.vi" Type="VI" URL="../montaCabecalho.vi"/>
 		<Item Name="trataMsg.vi" Type="VI" URL="../trataMsg.vi"/>
